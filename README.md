@@ -1,4 +1,8 @@
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| :    Easy Multiline   : |||
+| :----- | :----- | :------ |
+| Apple  | Banana | Orange  \
+| Apple  | Banana | Orange  \
+| Apple  | Banana | Orange
+| Apple  | Banana | Orange  \
+| Apple  | Banana | Orange  |
+| Apple  | Banana | Orange  |
