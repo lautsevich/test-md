@@ -1,5 +1,4 @@
-First Header | Second Header
------------- | -------------
-1. sadas     | Content
-2. sadas
-Content      | Content
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
